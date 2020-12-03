@@ -4,4 +4,5 @@ def add_ten(param):
 
 
 def add_one(param):
+    """add new changes"""
     return param + 1
