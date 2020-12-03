@@ -1,4 +1,5 @@
 def add_ten(param):
+    """Added docstring by supposed alternate collaborator"""
     return param + 10
 
 
